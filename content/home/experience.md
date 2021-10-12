@@ -22,28 +22,77 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Software Engineer | Contract Part-time
+    company: Houston Rockets
+    company_url: 'https://www.nba.com/rockets'
+    company_logo: houstonrockets
+    location: Vancouver, Canada
+    date_start: '2018-12-18'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description:
+  
+  - title: Software Engineer | Intern
+    company: Dapper Labs
+    company_url: 'https://www.dapperlabs.com'
+    company_logo: dapperlabs
+    location: Vancouver, Canada
+    date_start: '2020-06-01'
+    date_end: '2020-09-04'
+    description:
+  
+  - title: Software Engineer | Intern
+    company: Shopify
+    company_url: 'https://www.shopify.ca'
+    company_logo: shopify
+    location: Ottawa, Canada
+    date_start: '2020-01-01'
+    date_end: '2020-04-30'
+    description:
+
+  - title: Software Engineer | Contract Part-time
+    company: University of British Columbia
+    company_url: 'https://learninganalytics.ubc.ca/'
+    company_logo: ubc
+    location: Vancouver, Canada
+    date_start: '2019-06-01'
+    date_end: '2019-12-31'
+    description:
+
+  - title: Software Engineer | Intern
+    company: Splunk
+    company_url: 'https://www.splunk.com/en_us/software/stream-processing.html'
+    company_logo: splunk
+    location: Vancouver, Canada
+    date_start: '2019-01-01'
+    date_end: '2019-04-01'
+    description:
+
+  - title: Software Engineer | Intern
+    company: Scotiabank
+    company_url: 'https://www.scotiabank.com/ca'
+    company_logo: scotiabank
+    location: Toronto, Canada
+    date_start: '2018-09-01'
+    date_end: '2018-12-31'
+    description:
+
+  - title: Software Engineer | Intern
+    company: SAP
+    company_url: 'https://help.sap.com/viewer/index'
+    company_logo: sap
+    location: Vancouver, Canada
+    date_start: '2018-01-01'
+    date_end: '2018-08-31'
+    description:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Software Engineer | Contract Part-time
+    company: University of British Columbia, Faculty of Land and Food Systems
+    company_url: 'https://www.landfood.ubc.ca/'
+    company_logo: ubc
+    location: Vancouver, Canada
+    date_start: '2017-07-01'
+    date_end: '2018-01-31'
+    description:
 
 design:
   columns: '2'
